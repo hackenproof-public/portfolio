@@ -4,7 +4,7 @@
 
 ## About HackenProof
 
-HackenProof is an expert bug bounty platform and crowdsourced security marketplace that connects companies with a global community of white hat security researchers. We help organizations continuously identify, validate, and prioritize vulnerabilities across both Web3 (L1/L2, DeFi protocols, DAO & Governance) and Web2 tech companies, including financial services, public sector, healthcare, e-commerce, government, before they can be exploited.
+[HackenProof](https://hackenproof.com/) is an expert bug bounty platform and crowdsourced security marketplace that connects companies with a global community of white hat security researchers. We help organizations continuously identify, validate, and prioritize vulnerabilities across both Web3 (L1/L2, DeFi protocols, DAO & Governance) and Web2 tech companies, including financial services, public sector, healthcare, e-commerce, government, before they can be exploited.
 
 Our curated security services include bug bounty programs, smart contract audits, blockchain audits, dApp audits, penetration testing, vulnerability disclosure policy (VDP) management, and request for proposal (RFP). Through expert triage, managed researcher payouts, and structured vulnerability reporting, HackenProof turns external security testing into a scalable and actionable part of the cybersecurity process.
 
