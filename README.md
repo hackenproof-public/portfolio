@@ -34,38 +34,38 @@ Our curated security services include bug bounty programs, smart contract audits
 | ZIGChain | 15.01.2026 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
 | Rain | 14.01.2026 | Curated Audit | |
 | OpenEden | 13.01.2026 | Curated Audit | |
-| Reliq | 23.12.2025 | Audit Contest | |
+| Reliq | 23.12.2025 | Audit Contest |[Audit Page](https://hackenproof.com/audit-programs) |
 | TraderBros | 15.12.2025 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
 | VeChain | 10.12.2025 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
 | Panini America | 08.12.2025 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
 | Soda Labs | 28.11.2025 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
-| DexLyn | 20.11.2025 | Audit Contest | |
-| Rain | 19.11.2025 | Audit Contest | |
+| DexLyn | 20.11.2025 | Audit Contest |[Audit Page](https://hackenproof.com/audit-programs) |
+| Rain | 19.11.2025 | Audit Contest |[Audit Page](https://hackenproof.com/audit-programs) |
 | DexLyn | 31.10.2025 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
-| Lumia | 18.10.2025 | Audit Contest | |
-| OpenEden | 17.10.2025 | Audit Contest | |
-| DexLyn | 07.10.2025 | Audit Contest | |
+| Lumia | 18.10.2025 | Audit Contest |[Audit Page](https://hackenproof.com/audit-programs) |
+| OpenEden | 17.10.2025 | Audit Contest |[Audit Page](https://hackenproof.com/audit-programs) |
+| DexLyn | 07.10.2025 | Audit Contest |[Audit Page](https://hackenproof.com/audit-programs) |
 | Aspis | 04.10.2025 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
 | Lendle | 26.09.2025 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
 | SuiDex | 25.09.2025 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
 | Cueva | 22.09.2025 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
-| Somnia | 20.09.2025 | Audit Contest | |
+| Somnia | 20.09.2025 | Audit Contest |[Audit Page](https://hackenproof.com/audit-programs) |
 | Bert | 15.09.2025 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
-| Blockz | 13.09.2025 | Audit Contest | |
+| Blockz | 13.09.2025 | Audit Contest |[Audit Page](https://hackenproof.com/audit-programs) |
 | Coindepo | 10.09.2025 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
 | VeChain | 08.09.2025 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
 | Majority Games | 31.08.2025 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
 | Strobe | 30.08.2025 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
-| SuiDeX | 27.07.2025 | Audit Contest | |
-| OpenEden | 23.07.2025 | Audit Contest | |
-| Bluefin | 16.07.2025 | Perp Audit Contest | |
+| SuiDeX | 27.07.2025 | Audit Contest |[Audit Page](https://hackenproof.com/audit-programs) |
+| OpenEden | 23.07.2025 | Audit Contest |[Audit Page](https://hackenproof.com/audit-programs) |
+| Bluefin | 16.07.2025 | Perp Audit Contest |[Audit Page](https://hackenproof.com/audit-programs) |
 | Dexalot | 13.07.2025 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
 | CoinEx | 27.06.2025 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
 | Mina | 24.06.2025 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
 | RedStone | 18.06.2025 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
 | C8ntinuum | 14.06.2025 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
-| Ignite Market | 05.06.2025 | Audit Contest | |
-| Blackhan | 27.05.2025 | Audit Contest | |
+| Ignite Market | 05.06.2025 | Audit Contest |[Audit Page](https://hackenproof.com/audit-programs) |
+| Blackhan | 27.05.2025 | Audit Contest |[Audit Page](https://hackenproof.com/audit-programs) |
 | Aegis | 15.04.2025 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
 | Zygo | 07.04.2025 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
 | Zilliqa | 07.04.2025 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
@@ -74,7 +74,7 @@ Our curated security services include bug bounty programs, smart contract audits
 | VOOX | 27.03.2025 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
 | Aurora Labs | 17.03.2025 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
 | Hesty | 13.03.2025 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
-| Kinetic | 20.02.2025 | Audit Contest | |
+| Kinetic | 20.02.2025 | Audit Contest |[Audit Page](https://hackenproof.com/audit-programs) |
 | Hubz | 10.02.2025 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
 | EverValue Coin | 01.02.2025 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
 | DexLyn | 24.01.2025 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
@@ -90,6 +90,6 @@ Our curated security services include bug bounty programs, smart contract audits
 | Nya (Nya.vip) | 04.12.2024 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
 | Zharta | 24.11.2024 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
 | NodeTerminal | 22.11.2024 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
-| Bluefin | 17.03.2024 | Audit Contest | |
-| Bluefin | 01.02.2024 | Audit Contest | |
-| Aurora | 29.10.2023 | Audit Contest | |
+| Bluefin | 17.03.2024 | Audit Contest |[Audit Page](https://hackenproof.com/audit-programs) |
+| Bluefin | 01.02.2024 | Audit Contest |[Audit Page](https://hackenproof.com/audit-programs) |
+| Aurora | 29.10.2023 | Audit Contest |[Audit Page](https://hackenproof.com/audit-programs) |
