@@ -20,7 +20,7 @@ Our curated security services include bug bounty programs, smart contract audits
 | Algoxen | 09.05.2026 | Curated Audit | |
 | ZetaChain | 04.05.2026 | Curated Audit | |
 | AtlasOra | 29.04.2026 | Curated Audit | |
-| CurrenC | 24.04.2026 | Curated Audit | |
+| CurrenC | 24.04.2026 | Curated Audit | [📄 Report](audits/CurrenC%20Full%20Report.pdf) |
 | Overlayer | 10.04.2026 | DualDefense Audit | |
 | eStorm | 08.04.2026 | DualDefense Audit | |
 | Dexalot | 06.04.2026 | DualDefense Audit | |
