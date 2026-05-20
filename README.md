@@ -13,8 +13,8 @@ Our curated security services include bug bounty programs, smart contract audits
 | Company Name | Audit Date | Audit Type | Report |
 |--------------|------------|------------|--------|
 | KiiChain | 08.06.2026 | DualDefense Audit | |
-| HotCoin | 05.06.2026 | Curated Pentest | |
-| Haystack | 18.05.2026 | Curated Pentest | |
+| HotCoin | 05.06.2026 | Curated Pentest | 🔒 NDA |
+| Haystack | 18.05.2026 | Curated Pentest | 🔒 NDA |
 | ADI | 14.05.2026 | Curated Audit | |
 | Rain | 10.05.2026 | Curated Audit | |
 | Algoxen | 09.05.2026 | Curated Audit | |
@@ -26,7 +26,7 @@ Our curated security services include bug bounty programs, smart contract audits
 | Dexalot | 06.04.2026 | DualDefense Audit | |
 | Agent - X | 30.03.2026 | DualDefense Audit | |
 | RealGo | 23.03.2026 | Curated Audit | |
-| Coinstore | 19.03.2026 | Curated Pentest | |
+| Coinstore | 19.03.2026 | Curated Pentest | 🔒 NDA |
 | Tokenize.it | 23.02.2026 | DualDefense Audit | |
 | Mawari | 03.02.2026 | DualDefense Audit: Part Three | |
 | Mawari | 03.02.2026 | DualDefense Audit: Part Two | |
