@@ -32,7 +32,7 @@ Our curated security services include bug bounty programs, smart contract audits
 | Mawari | 03.02.2026 | DualDefense Audit: Part Two | [Audit Page](https://hackenproof.com/audit-programs) |
 | Mawari | 28.01.2026 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
 | ZIGChain | 15.01.2026 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
-| Rain | 14.01.2026 | Curated Audit | 🔒 NDA |
+| Rain | 14.01.2026 | Curated Audit | [📄 Report](audits/Rain%20Private%20Audit.pdf) |
 | OpenEden | 13.01.2026 | Curated Audit | 🔒 NDA |
 | Reliq | 23.12.2025 | Audit Contest | [Audit Page](https://hackenproof.com/audit-programs) |
 | TraderBros | 15.12.2025 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
