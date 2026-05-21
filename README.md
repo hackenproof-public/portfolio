@@ -64,7 +64,7 @@ Our curated security services include bug bounty programs, smart contract audits
 | Mina | 24.06.2025 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
 | RedStone | 18.06.2025 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
 | C8ntinuum | 14.06.2025 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
-| Ignite Market | 05.06.2025 | Audit Contest | [Audit Page](https://hackenproof.com/audit-programs) |
+| Ignite Market | 05.06.2025 | Audit Contest | [📄 Report](audits/IgniteMarket_06_25.pdf) |
 | Blackhan | 27.05.2025 | Audit Contest | [Audit Page](https://hackenproof.com/audit-programs) |
 | Aegis | 15.04.2025 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
 | Zygo | 07.04.2025 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
