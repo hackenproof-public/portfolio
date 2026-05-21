@@ -92,4 +92,4 @@ Our curated security services include bug bounty programs, smart contract audits
 | NodeTerminal | 22.11.2024 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
 | Bluefin | 17.03.2024 | Audit Contest | [📄 Report](audits/Bluefin%20Final%20Report%202.pdf) |
 | Bluefin | 01.02.2024 | Audit Contest | [📄 Report](audits/Bluefin%20Final%20Report.pdf) |
-| Aurora | 29.10.2023 | Audit Contest | [Audit Page](https://hackenproof.com/audit-programs) |
+| Aurora | 29.10.2023 | Audit Contest | [Audit Page](https://hackenproof.com/audit-programs/aurora-audit-contest) |
