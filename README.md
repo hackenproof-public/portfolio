@@ -14,6 +14,9 @@ Our curated security services include bug bounty programs, smart contract audits
 |--------------|------------|------------|--------|
 | KiiChain | 08.06.2026 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
 | HotCoin | 05.06.2026 | Curated Pentest | 🔒 NDA |
+| Sundial | 04.06.2026 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
+| Dream Play | 29.05.2026 | Curated Pentest | 🔒 NDA |
+| Digbi2121 | 23.05.2026 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
 | Haystack | 18.05.2026 | Curated Pentest | 🔒 NDA |
 | ADI | 14.05.2026 | Curated Audit | 🔒 NDA |
 | Rain | 10.05.2026 | Curated Audit | [📄 Report](audits/Rain%20V2%20Outcome%20Contracts%20Final%20Report.pdf) |
