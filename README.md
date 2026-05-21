@@ -43,7 +43,7 @@ Our curated security services include bug bounty programs, smart contract audits
 | Rain | 19.11.2025 | Audit Contest | [Audit Page](https://hackenproof.com/audit-programs) |
 | DexLyn | 31.10.2025 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
 | Lumia | 18.10.2025 | Audit Contest | [Audit Page](https://hackenproof.com/audit-programs) |
-| OpenEden | 17.10.2025 | Audit Contest | [Audit Page](https://hackenproof.com/audit-programs) |
+| OpenEden | 17.10.2025 | Audit Contest | [📄 Report](audits/OpenEden_PRISM_HackenProof.pdf) |
 | DexLyn | 07.10.2025 | Audit Contest | [Audit Page](https://hackenproof.com/audit-programs) |
 | Aspis | 04.10.2025 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
 | Lendle | 26.09.2025 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
