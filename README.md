@@ -19,7 +19,7 @@ Our curated security services include bug bounty programs, smart contract audits
 | Rain | 10.05.2026 | Curated Audit | 🔒 NDA |
 | Algoxen | 09.05.2026 | Curated Audit | 🔒 NDA |
 | ZetaChain | 04.05.2026 | Curated Audit | 🔒 NDA |
-| AtlasOra | 29.04.2026 | Curated Audit | 🔒 NDA |
+| AtlasOra | 29.04.2026 | Curated Audit | [📄 Report](audits/AtlasOra%20final%20report.pdf) |
 | CurrenC | 24.04.2026 | Curated Audit | [📄 Report](audits/CurrenC%20Full%20Report.pdf) |
 | Overlayer | 10.04.2026 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
 | eStorm | 08.04.2026 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
