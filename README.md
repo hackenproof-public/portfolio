@@ -77,7 +77,7 @@ Our curated security services include bug bounty programs, smart contract audits
 | Kinetic | 20.02.2025 | Audit Contest | [Audit Page](https://hackenproof.com/audit-programs) |
 | Hubz | 10.02.2025 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
 | EverValue Coin | 01.02.2025 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
-| DexLyn | 24.01.2025 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
+| DexLyn | 24.01.2025 | DualDefense Audit | [📄 Report](audits/DexLyn.pdf) |
 | Unizen | 09.01.2025 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
 | Covalent | 31.12.2024 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
 | CratD2C dApp | 24.12.2024 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
