@@ -39,7 +39,7 @@ Our curated security services include bug bounty programs, smart contract audits
 | VeChain | 10.12.2025 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
 | Panini America | 08.12.2025 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
 | Soda Labs | 28.11.2025 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
-| DexLyn | 20.11.2025 | Audit Contest | [Audit Page](https://hackenproof.com/audit-programs) |
+| DexLyn | 20.11.2025 | Audit Contest | [📄 Report](audits/DexLyn%20Tokenomics%20Final%20Report.pdf) |
 | Rain | 19.11.2025 | Audit Contest | [Audit Page](https://hackenproof.com/audit-programs) |
 | DexLyn | 31.10.2025 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
 | Lumia | 18.10.2025 | Audit Contest | [Audit Page](https://hackenproof.com/audit-programs) |
