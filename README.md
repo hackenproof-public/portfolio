@@ -25,7 +25,7 @@ Our curated security services include bug bounty programs, smart contract audits
 | eStorm | 08.04.2026 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
 | Dexalot | 06.04.2026 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
 | Agent - X | 30.03.2026 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
-| RealGo | 23.03.2026 | Curated Audit | 🔒 NDA |
+| RealGo | 23.03.2026 | Curated Audit | [📄 Report](audits/RealGo%20Final%20Report.pdf) |
 | Coinstore | 19.03.2026 | Curated Pentest | 🔒 NDA |
 | Tokenize.it | 23.02.2026 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
 | Mawari | 03.02.2026 | DualDefense Audit: Part Three | [Audit Page](https://hackenproof.com/audit-programs) |
