@@ -49,7 +49,7 @@ Our curated security services include bug bounty programs, smart contract audits
 | Lendle | 26.09.2025 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
 | SuiDex | 25.09.2025 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
 | Cueva | 22.09.2025 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
-| Somnia | 20.09.2025 | Audit Contest | [Audit Page](https://hackenproof.com/audit-programs) |
+| Somnia | 20.09.2025 | Audit Contest | [📄 Report](audits/Somnia%20Final%20Report.pdf) |
 | Bert | 15.09.2025 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
 | Blockz | 13.09.2025 | Audit Contest | [Audit Page](https://hackenproof.com/audit-programs) |
 | Coindepo | 10.09.2025 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
