@@ -74,7 +74,7 @@ Our curated security services include bug bounty programs, smart contract audits
 | VOOX | 27.03.2025 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
 | Aurora Labs | 17.03.2025 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
 | Hesty | 13.03.2025 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
-| Kinetic | 20.02.2025 | Audit Contest | [Audit Page](https://hackenproof.com/audit-programs) |
+| Kinetic | 20.02.2025 | Audit Contest | [📄 Report](audits/Kinetic%20Final%20Report.pdf) |
 | Hubz | 10.02.2025 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
 | EverValue Coin | 01.02.2025 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
 | DexLyn | 24.01.2025 | DualDefense Audit | [📄 Report](audits/DexLyn.pdf) |
