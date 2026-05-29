@@ -13,8 +13,8 @@ Our curated security services include bug bounty programs, smart contract audits
 | # | Company Name | Audit Date | Audit Type | Report |
 |---|--------------|------------|------------|--------|
 | 1 | ADI Foundation | 14.06.2026 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
-| 2 | DreamX HODLBonds | 12.06.2026 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
-| 3 | DreamX HODLBonds | 12.06.2026 | DualDefense Audit: Part Two | [Audit Page](https://hackenproof.com/audit-programs) |
+| 2 | DreamX HODLBonds | 12.06.2026 | DualDefense Audit: Part Two | [Audit Page](https://hackenproof.com/audit-programs) |
+| 3 | DreamX HODLBonds | 12.06.2026 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
 | 4 | KiiChain | 08.06.2026 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
 | 5 | HotCoin | 05.06.2026 | Curated Pentest | 🔒 NDA |
 | 6 | Sundial | 04.06.2026 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
