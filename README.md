@@ -12,7 +12,7 @@ Our curated security services include bug bounty programs, smart contract audits
 
 | # | Company Name | Audit Date | Audit Type | Report |
 |---|--------------|------------|------------|--------|
-| 1 | 0xMarkets (General Tensor) | 08.07.2026 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
+| 1 | 0xMarkets (General Tensor) | 08.07.2026 | Audit Contest | [Audit Page](https://hackenproof.com/audit-programs/0xmarkets-audit-contest) |
 | 2 | ADI Foundation | 14.06.2026 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
 | 3 | DreamX HODLBonds | 12.06.2026 | DualDefense Audit: Part Two | [Audit Page](https://hackenproof.com/audit-programs) |
 | 4 | DreamX HODLBonds | 12.06.2026 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
