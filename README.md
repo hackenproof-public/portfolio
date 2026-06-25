@@ -12,11 +12,11 @@ Our curated security services include bug bounty programs, smart contract audits
 
 | # | Company Name | Completion Date | Audit Type | Report |
 |---|--------------|-----------------|------------|--------|
-| 1 | AtlasOra | 29.08.2026 | Curated Audit | 🔒 NDA |
-| 2 | Stabillon | 04.08.2026 | Curated Audit | 🔒 NDA |
-| 3 | 0xMarkets (General Tensor) | 08.07.2026 | Audit Contest | [Audit Page](https://hackenproof.com/audit-programs/0xmarkets-audit-contest) |
-| 4 | DART | 30.06.2026 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs/darts-sc-dualdefense-audit) |
-| 5 | AITONFT | 30.06.2026 | Curated Audit | 🔒 NDA |
+| 1 | Stabillon | 04.08.2026 | Curated Audit | 🔒 NDA |
+| 2 | 0xMarkets (General Tensor) | 08.07.2026 | Audit Contest | [Audit Page](https://hackenproof.com/audit-programs/0xmarkets-audit-contest) |
+| 3 | DART | 30.06.2026 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs/darts-sc-dualdefense-audit) |
+| 4 | AITONFT | 30.06.2026 | Curated Audit | 🔒 NDA |
+| 5 | AtlasOra | 29.06.2026 | Curated Audit | 🔒 NDA |
 | 6 | Tokenize.it | 27.06.2026 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs/tokenize-dot-it-token-sc-dualdefense-audit) |
 | 7 | TipRun | 24.06.2026 | Audit Contest | [Audit Page](https://hackenproof.com/audit-programs/tiprun-smart-contract-audit-contest) |
 | 8 | ADI Foundation | 14.06.2026 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
