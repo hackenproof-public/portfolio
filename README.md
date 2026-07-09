@@ -13,7 +13,7 @@ Our curated security services include bug bounty programs, smart contract audits
 | # | Company Name | Completion Date | Audit Type | Report |
 |---|--------------|-----------------|------------|--------|
 | 1 | Stabillon | 04.08.2026 | Curated Audit | 🔒 NDA |
-| 2 | Deepcoin | 28.07.2026 | Curated Audit | 🔒 NDA |
+| 2 | Deepcoin | 28.07.2026 | Curated Pentest | 🔒 NDA |
 | 3 | Telcoin | 22.07.2026 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
 | 4 | 0xMarkets (General Tensor) | 08.07.2026 | Audit Contest | [Audit Page](https://hackenproof.com/audit-programs/0xmarkets-audit-contest) |
 | 5 | DART | 30.06.2026 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs/darts-sc-dualdefense-audit) |
