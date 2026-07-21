@@ -12,10 +12,10 @@ Our curated security services include bug bounty programs, smart contract audits
 | # | Company Name | Completion Date | Audit Type | Report |
 |---|--------------|-----------------|------------|--------|
 | 1 | Stabillon | 04.08.2026 | Curated Audit | 🔒 NDA |
-| 2 | Push Chain | 03.08.2026 | DualDefense Audit: Part Four | [Audit Page](https://hackenproof.com/audit-programs) |
-| 3 | Push Chain | 03.08.2026 | DualDefense Audit: Part Three | [Audit Page](https://hackenproof.com/audit-programs) |
-| 4 | Push Chain | 03.08.2026 | DualDefense Audit: Part Two | [Audit Page](https://hackenproof.com/audit-programs) |
-| 5 | Push Chain | 02.08.2026 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
+| 2 | Push Chain | 03.08.2026 | DualDefense Audit: SC Part 3 | [Audit Page](https://hackenproof.com/audit-programs) |
+| 3 | Push Chain | 03.08.2026 | DualDefense Audit: SC Part 2 | [Audit Page](https://hackenproof.com/audit-programs) |
+| 4 | Push Chain | 03.08.2026 | DualDefense Audit: SC Part 1 | [Audit Page](https://hackenproof.com/audit-programs) |
+| 5 | Push Chain | 02.08.2026 | DualDefense Audit: L1 | [Audit Page](https://hackenproof.com/audit-programs) |
 | 6 | Deepcoin | 28.07.2026 | Curated Pentest | 🔒 NDA |
 | 7 | Telcoin | 22.07.2026 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
 | 8 | 0xMarkets (General Tensor) | 08.07.2026 | Audit Contest | [Audit Page](https://hackenproof.com/audit-programs/0xmarkets-audit-contest) |
@@ -25,7 +25,7 @@ Our curated security services include bug bounty programs, smart contract audits
 | 12 | Tokenize.it | 27.06.2026 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs/tokenize-dot-it-token-sc-dualdefense-audit) |
 | 13 | TipRun | 24.06.2026 | Audit Contest | [Audit Page](https://hackenproof.com/audit-programs/tiprun-smart-contract-audit-contest) |
 | 14 | ADI Foundation | 14.06.2026 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
-| 15 | DreamX HODLBonds | 12.06.2026 | DualDefense Audit: Part Two | [Audit Page](https://hackenproof.com/audit-programs) |
+| 15 | DreamX HODLBonds | 12.06.2026 | DualDefense Audit: SC Part 1 | [Audit Page](https://hackenproof.com/audit-programs) |
 | 16 | DreamX HODLBonds | 12.06.2026 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
 | 17 | Neyro | 09.06.2026 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
 | 18 | KiiChain | 08.06.2026 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
@@ -47,8 +47,8 @@ Our curated security services include bug bounty programs, smart contract audits
 | 34 | RealGo | 23.03.2026 | Curated Audit | [📄 Report](audits/RealGo%20Final%20Report.pdf) |
 | 35 | Coinstore | 19.03.2026 | Curated Pentest | 🔒 NDA |
 | 36 | Tokenize.it | 23.02.2026 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
-| 37 | Mawari | 03.02.2026 | DualDefense Audit: Part Three | [Audit Page](https://hackenproof.com/audit-programs) |
-| 38 | Mawari | 03.02.2026 | DualDefense Audit: Part Two | [Audit Page](https://hackenproof.com/audit-programs) |
+| 37 | Mawari | 03.02.2026 | DualDefense Audit: SC Part 2 | [Audit Page](https://hackenproof.com/audit-programs) |
+| 38 | Mawari | 03.02.2026 | DualDefense Audit: SC Part 1 | [Audit Page](https://hackenproof.com/audit-programs) |
 | 39 | Mawari | 28.01.2026 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
 | 40 | ZIGChain | 15.01.2026 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
 | 41 | Rain | 14.01.2026 | Curated Audit | [📄 Report](audits/Rain%20Private%20Audit.pdf) |
@@ -112,4 +112,5 @@ Our curated security services include bug bounty programs, smart contract audits
 | 99 | Bluefin | 17.03.2024 | Audit Contest | [📄 Report](audits/Bluefin%20Final%20Report%202.pdf) |
 | 100 | Bluefin | 01.02.2024 | Audit Contest | [📄 Report](audits/Bluefin%20Final%20Report.pdf) |
 | 101 | Aurora | 29.10.2023 | Audit Contest | [Audit Page](https://hackenproof.com/audit-programs/aurora-audit-contest) |
+
 
