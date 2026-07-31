@@ -18,7 +18,7 @@ Our curated security services include bug bounty programs, smart contract audits
 | 5 | Push Chain | 02.08.2026 | DualDefense Audit: L1 | [Audit Page](https://hackenproof.com/audit-programs) |
 | 6 | Deepcoin | 28.07.2026 | Curated Pentest | 🔒 NDA |
 | 7 | Telcoin | 22.07.2026 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
-| 8 | 0xMarkets (General Tensor) | 08.07.2026 | Audit Contest | [📄 0xMarkets](audits/0xMarkets%20Final%20Report.pdf) / [📄 Cartha Vault](audits/Cartha%20Vault%20Final%20Report.pdf) |
+| 8 | 0xMarkets (General Tensor) | 08.07.2026 | Audit Contest | [📄 0xMarkets](audits/0xMarkets%20Final%20Report.pdf)<br>[📄 Cartha Vault](audits/Cartha%20Vault%20Final%20Report.pdf) |
 | 9 | DART | 30.06.2026 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs/darts-sc-dualdefense-audit) |
 | 10 | AITONFT | 30.06.2026 | Curated Audit | 🔒 NDA |
 | 11 | AtlasOra | 29.06.2026 | Curated Audit | 🔒 NDA |
