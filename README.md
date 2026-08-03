@@ -120,4 +120,6 @@ HackenProof has completed 100+ security engagements across Web3 (L1/L2, DeFi pro
 | 105 | Bluefin | 01.02.2024 | Audit Contest | [📄 Report](audits/Bluefin%20Final%20Report.pdf) |
 | 106 | Aurora | 29.10.2023 | Audit Contest | [Audit Page](https://hackenproof.com/audit-programs/aurora-audit-contest) |
 
+Looking for a smart contract audit, blockchain audit, or penetration testing? [Request curated audit or penetration testing](https://t.me/Eleonora_HackenProof)
+
 
