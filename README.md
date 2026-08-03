@@ -7,7 +7,7 @@
 
 Our curated security services include bug bounty programs, smart contract audits, blockchain audits, dApp audits, penetration testing, vulnerability disclosure policy (VDP) management, and request for proposal (RFP). Through expert triage, managed researcher payouts, and structured vulnerability reporting, HackenProof turns external security testing into a scalable and actionable part of the cybersecurity process.
 
-## Audits History
+## Security Audits & Penetration Testing Portfolio
 
 | # | Company Name | Completion Date | Audit Type | Report |
 |---|--------------|-----------------|------------|--------|
