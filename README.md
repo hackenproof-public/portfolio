@@ -9,6 +9,8 @@ Our curated security services include bug bounty programs, smart contract audits
 
 ## Security Audits & Penetration Testing Portfolio
 
+HackenProof has completed 100+ security engagements across Web3 (L1/L2, DeFi protocols, smart contracts, dApps) and Web2 projects — including smart contract audits, blockchain audits, penetration testing, and public audit contests. Below is our public portfolio of completed engagements and available reports.
+
 | # | Company Name | Completion Date | Audit Type | Report |
 |---|--------------|-----------------|------------|--------|
 | 1 | TCG-VAULT | 02.09.2026 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
