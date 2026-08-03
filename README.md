@@ -11,13 +11,13 @@ Our curated security services include bug bounty programs, smart contract audits
 
 | # | Company Name | Completion Date | Audit Type | Report |
 |---|--------------|-----------------|------------|--------|
-| 1 | Stabillon | 04.08.2026 | Curated Audit | 🔒 NDA |
-| 2 | Push Chain | 03.08.2026 | DualDefense Audit: SC Part 3 | [Audit Page](https://hackenproof.com/audit-programs) |
-| 3 | Push Chain | 03.08.2026 | DualDefense Audit: SC Part 2 | [Audit Page](https://hackenproof.com/audit-programs) |
-| 4 | Push Chain | 03.08.2026 | DualDefense Audit: SC Part 1 | [Audit Page](https://hackenproof.com/audit-programs) |
-| 5 | TCG-VAULT | 03.08.2026 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
-| 6 | Datamine Network | 03.08.2026 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
-| 7 | Perceptron Network | 03.08.2026 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
+| 1 | TCG-VAULT | 02.09.2026 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
+| 2 | Perceptron Network | 17.08.2026 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
+| 3 | Datamine Network | 17.08.2026 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
+| 4 | Stabillon | 04.08.2026 | Curated Audit | 🔒 NDA |
+| 5 | Push Chain | 03.08.2026 | DualDefense Audit: SC Part 3 | [Audit Page](https://hackenproof.com/audit-programs) |
+| 6 | Push Chain | 03.08.2026 | DualDefense Audit: SC Part 2 | [Audit Page](https://hackenproof.com/audit-programs) |
+| 7 | Push Chain | 03.08.2026 | DualDefense Audit: SC Part 1 | [Audit Page](https://hackenproof.com/audit-programs) |
 | 8 | Push Chain | 02.08.2026 | DualDefense Audit: L1 | [Audit Page](https://hackenproof.com/audit-programs) |
 | 9 | Deepcoin | 28.07.2026 | Curated Pentest | 🔒 NDA |
 | 10 | Telcoin | 22.07.2026 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
