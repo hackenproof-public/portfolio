@@ -22,7 +22,7 @@ HackenProof has completed 100+ security engagements across Web3 (L1/L2, DeFi pro
 | 7 | Push Chain | 03.08.2026 | DualDefense Audit: SC Part 2 | [Audit Page](https://hackenproof.com/audit-programs) |
 | 8 | Push Chain | 03.08.2026 | DualDefense Audit: SC Part 1 | [Audit Page](https://hackenproof.com/audit-programs) |
 | 9 | Push Chain | 02.08.2026 | DualDefense Audit: L1 | [Audit Page](https://hackenproof.com/audit-programs) |
-| 10 | Multyr | 30.07.2026 | Curated Audit | 🔒 NDA |
+| 10 | Multyr | 30.07.2026 | Curated Audit | [📄 Report](audits/Multyr%20Final%20Report.pdf) |
 | 11 | Deepcoin | 28.07.2026 | Curated Pentest | 🔒 NDA |
 | 12 | Telcoin | 22.07.2026 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
 | 13 | 0xMarkets (General Tensor) | 08.07.2026 | Audit Contest | [📄 0xMarkets](audits/0xMarkets%20Final%20Report.pdf)<br>[📄 Cartha Vault](audits/Cartha%20Vault%20Final%20Report.pdf) |
