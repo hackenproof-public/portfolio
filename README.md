@@ -16,7 +16,7 @@ HackenProof has completed 100+ security engagements across Web3 (L1/L2, DeFi pro
 | 1 | Europeum | 17.09.2026 | DualDefense Audit: API | [Audit Page](https://hackenproof.com/audit-programs/europeum-api-dualdefense-audit) |
 | 2 | Alberich Token | 08.09.2026 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs/alberich-token-sc-dualdefense-audit) |
 | 3 | Zendex | 08.09.2026 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs/zendex-sc-dualdefense-audit) |
-| 4 | ROZO | 08.09.2026 | Curated Private Audit | [📄 Report](audits/Rozo%20Final%20Report.pdf) |
+| 4 | ROZO (MPP Router) | 08.09.2026 | Curated Private Audit | [📄 Report](audits/Rozo%20Final%20Report.pdf) |
 | 5 | Europeum | 25.08.2026 | DualDefense Audit: TCR | [Audit Page](https://hackenproof.com/audit-programs/europeum-tcr-sc-dualdefense-audit) |
 | 6 | Europeum | 25.08.2026 | DualDefense Audit: Bootstrap | [Audit Page](https://hackenproof.com/audit-programs/europeum-bootstrap-sc-dualdefense-audit) |
 | 7 | Europeum | 25.08.2026 | DualDefense Audit: Timestamp | [Audit Page](https://hackenproof.com/audit-programs/europeum-timestamp-sc-dualdefense-audit) |
