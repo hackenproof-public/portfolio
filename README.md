@@ -56,7 +56,7 @@ HackenProof has completed 100+ security engagements across Web3 (L1/L2, DeFi pro
 | 41 | Dream Play | 29.05.2026 | Curated Pentest | 🔒 NDA |
 | 42 | Digbi2121 | 23.05.2026 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
 | 43 | Haystack | 18.05.2026 | Curated Pentest | 🔒 NDA |
-| 44 | ADI Foundation | 14.05.2026 | Curated Audit | [📄 Report](audits/ADI%20Final%20Report.pdf) |
+| 44 | ADI Foundation | 14.05.2026 | Curated Audit | [📄 Report](audits/Predictstreet%20Full%20Final%20Report.pdf) |
 | 45 | Rain | 10.05.2026 | Curated Audit | [📄 Report](audits/Rain%20V2%20Outcome%20Contracts%20Final%20Report.pdf) |
 | 46 | Algoxen | 09.05.2026 | Curated Audit | [📄 Report](audits/Algoxen%20Final%20Report.pdf) |
 | 47 | ZetaChain | 04.05.2026 | Curated Audit | 🔒 NDA |
