@@ -17,15 +17,15 @@ HackenProof has completed 100+ security engagements across Web3 (L1/L2, DeFi pro
 | 2 | Digital Oro International | 26.10.2026 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
 | 3 | DreamX Marketplace & DEX | 26.10.2026 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
 | 4 | EverValue | 16.10.2026 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
-| 5 | RealGo | 09.10.2026 | Curated Audit | [📄 Report](audits/RealGo%20Private%20Audit%20Final%20Report.pdf) |
-| 6 | HOODHOUSE | 02.10.2026 | Curated Audit | 🔒 NDA |
+| 5 | RealGo | 09.10.2026 | Curated Private Audit | [📄 Report](audits/RealGo%20Private%20Audit%20Final%20Report.pdf) |
+| 6 | HOODHOUSE | 02.10.2026 | Curated Private Audit | 🔒 NDA |
 | 7 | Rain | 01.10.2026 | Audit Contest | 🔒 NDA |
-| 8 | Hsuite | 28.09.2026 | Curated Pentest | [📄 Report](audits/Hsuite%20Final%20Report.pdf) |
+| 8 | Hsuite | 28.09.2026 | Curated Private Pentest | [📄 Report](audits/Hsuite%20Final%20Report.pdf) |
 | 9 | Europeum | 17.09.2026 | DualDefense Audit: API | [Audit Page](https://hackenproof.com/audit-programs/europeum-api-dualdefense-audit) |
 | 10 | Alberich Token | 08.09.2026 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs/alberich-token-sc-dualdefense-audit) |
 | 11 | Zendex | 08.09.2026 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs/zendex-sc-dualdefense-audit) |
 | 12 | ROZO (MPP Router) | 08.09.2026 | Curated Private Audit | [📄 Report](audits/Rozo%20Final%20Report.pdf) |
-| 13 | Plaee | 31.08.2026 | Curated Audit | 🔒 NDA |
+| 13 | Plaee | 31.08.2026 | Curated Private Audit | 🔒 NDA |
 | 14 | Europeum | 25.08.2026 | DualDefense Audit: TCR | [Audit Page](https://hackenproof.com/audit-programs/europeum-tcr-sc-dualdefense-audit) |
 | 15 | Europeum | 25.08.2026 | DualDefense Audit: Bootstrap | [Audit Page](https://hackenproof.com/audit-programs/europeum-bootstrap-sc-dualdefense-audit) |
 | 16 | Europeum | 25.08.2026 | DualDefense Audit: Timestamp | [Audit Page](https://hackenproof.com/audit-programs/europeum-timestamp-sc-dualdefense-audit) |
@@ -38,20 +38,20 @@ HackenProof has completed 100+ security engagements across Web3 (L1/L2, DeFi pro
 | 23 | TCG-VAULT | 02.09.2026 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
 | 24 | Perceptron Network | 17.08.2026 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
 | 25 | Datamine Network | 17.08.2026 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
-| 26 | Flow | 05.08.2026 | Curated Audit | 🔒 NDA |
-| 27 | Stabillon | 04.08.2026 | Curated Audit | 🔒 NDA |
+| 26 | Flow | 05.08.2026 | Curated Private Audit | 🔒 NDA |
+| 27 | Stabillon | 04.08.2026 | Curated Private Audit | 🔒 NDA |
 | 28 | Push Chain | 03.08.2026 | DualDefense Audit: SC Part 3 | [Audit Page](https://hackenproof.com/audit-programs) |
 | 29 | Push Chain | 03.08.2026 | DualDefense Audit: SC Part 2 | [Audit Page](https://hackenproof.com/audit-programs) |
 | 30 | Push Chain | 03.08.2026 | DualDefense Audit: SC Part 1 | [Audit Page](https://hackenproof.com/audit-programs) |
 | 31 | Push Chain | 02.08.2026 | DualDefense Audit: L1 | [Audit Page](https://hackenproof.com/audit-programs) |
-| 32 | Multyr | 30.07.2026 | Curated Audit | [📄 Report](audits/Multyr%20Final%20Report.pdf) |
-| 33 | WrappedCBDC Limited | 30.07.2026 | Curated Audit | [📄 Report](audits/WrappedCBDC%20Limited%20%20%28cNGN%20stablecoin%20issuer%29.pdf) |
-| 34 | Deepcoin | 12.08.2026 | Curated Pentest | 🔒 NDA |
+| 32 | Multyr | 30.07.2026 | Curated Private Audit | [📄 Report](audits/Multyr%20Final%20Report.pdf) |
+| 33 | WrappedCBDC Limited | 30.07.2026 | Curated Private Audit | [📄 Report](audits/WrappedCBDC%20Limited%20%20%28cNGN%20stablecoin%20issuer%29.pdf) |
+| 34 | Deepcoin | 12.08.2026 | Curated Private Pentest | 🔒 NDA |
 | 35 | Telcoin | 22.07.2026 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
 | 36 | 0xMarkets (General Tensor) | 08.07.2026 | Audit Contest | [📄 0xMarkets](audits/0xMarkets%20Final%20Report.pdf)<br>[📄 Cartha Vault](audits/Cartha%20Vault%20Final%20Report.pdf) |
 | 37 | DART | 30.06.2026 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs/darts-sc-dualdefense-audit) |
-| 38 | AITONFT | 30.06.2026 | Curated Audit | 🔒 NDA |
-| 39 | AtlasOra | 29.06.2026 | Curated Audit | 🔒 NDA |
+| 38 | AITONFT | 30.06.2026 | Curated Private Audit | 🔒 NDA |
+| 39 | AtlasOra | 29.06.2026 | Curated Private Audit | 🔒 NDA |
 | 40 | Tokenize.it | 27.06.2026 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs/tokenize-dot-it-token-sc-dualdefense-audit) |
 | 41 | TipRun | 24.06.2026 | Audit Contest | [Audit Page](https://hackenproof.com/audit-programs/tiprun-smart-contract-audit-contest) |
 | 42 | ADI Foundation | 14.06.2026 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
@@ -59,30 +59,30 @@ HackenProof has completed 100+ security engagements across Web3 (L1/L2, DeFi pro
 | 44 | DreamX HODLBonds | 12.06.2026 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
 | 45 | Neyro | 09.06.2026 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
 | 46 | KiiChain | 08.06.2026 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
-| 47 | HotCoin | 05.06.2026 | Curated Pentest | 🔒 NDA |
+| 47 | HotCoin | 05.06.2026 | Curated Private Pentest | 🔒 NDA |
 | 48 | Sundial | 04.06.2026 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
-| 49 | Dream Play | 29.05.2026 | Curated Pentest | 🔒 NDA |
+| 49 | Dream Play | 29.05.2026 | Curated Private Pentest | 🔒 NDA |
 | 50 | Digbi2121 | 23.05.2026 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
-| 51 | Haystack | 18.05.2026 | Curated Pentest | 🔒 NDA |
-| 52 | ADI Foundation | 14.05.2026 | Curated Audit | [📄 Report](audits/Predictstreet%20Full%20Final%20Report.pdf) |
-| 53 | Rain | 10.05.2026 | Curated Audit | [📄 Report](audits/Rain%20V2%20Outcome%20Contracts%20Final%20Report.pdf) |
-| 54 | Algoxen | 09.05.2026 | Curated Audit | [📄 Report](audits/Algoxen%20Final%20Report.pdf) |
-| 55 | ZetaChain | 04.05.2026 | Curated Audit | 🔒 NDA |
-| 56 | AtlasOra | 29.04.2026 | Curated Audit | [📄 Report](audits/AtlasOra%20final%20report.pdf) |
-| 57 | CurrenC | 24.04.2026 | Curated Audit | [📄 Report](audits/CurrenC%20Full%20Report.pdf) |
+| 51 | Haystack | 18.05.2026 | Curated Private Pentest | 🔒 NDA |
+| 52 | ADI Foundation | 14.05.2026 | Curated Private Audit | [📄 Report](audits/Predictstreet%20Full%20Final%20Report.pdf) |
+| 53 | Rain | 10.05.2026 | Curated Private Audit | [📄 Report](audits/Rain%20V2%20Outcome%20Contracts%20Final%20Report.pdf) |
+| 54 | Algoxen | 09.05.2026 | Curated Private Audit | [📄 Report](audits/Algoxen%20Final%20Report.pdf) |
+| 55 | ZetaChain | 04.05.2026 | Curated Private Audit | 🔒 NDA |
+| 56 | AtlasOra | 29.04.2026 | Curated Private Audit | [📄 Report](audits/AtlasOra%20final%20report.pdf) |
+| 57 | CurrenC | 24.04.2026 | Curated Private Audit | [📄 Report](audits/CurrenC%20Full%20Report.pdf) |
 | 58 | Overlayer | 10.04.2026 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
 | 59 | eStorm | 08.04.2026 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
 | 60 | Dexalot | 06.04.2026 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
 | 61 | Agent - X | 30.03.2026 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
-| 62 | RealGo | 23.03.2026 | Curated Audit | [📄 Report](audits/RealGo%20Final%20Report.pdf) |
-| 63 | Coinstore | 19.03.2026 | Curated Pentest | 🔒 NDA |
+| 62 | RealGo | 23.03.2026 | Curated Private Audit | [📄 Report](audits/RealGo%20Final%20Report.pdf) |
+| 63 | Coinstore | 19.03.2026 | Curated Private Pentest | 🔒 NDA |
 | 64 | Tokenize.it | 23.02.2026 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
 | 65 | Mawari | 03.02.2026 | DualDefense Audit: SC Part 2 | [Audit Page](https://hackenproof.com/audit-programs) |
 | 66 | Mawari | 03.02.2026 | DualDefense Audit: SC Part 1 | [Audit Page](https://hackenproof.com/audit-programs) |
 | 67 | Mawari | 28.01.2026 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
 | 68 | ZIGChain | 15.01.2026 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
-| 69 | Rain | 14.01.2026 | Curated Audit | [📄 Report](audits/Rain%20Private%20Audit.pdf) |
-| 70 | OpenEden | 13.01.2026 | Curated Audit | 🔒 NDA |
+| 69 | Rain | 14.01.2026 | Curated Private Audit | [📄 Report](audits/Rain%20Private%20Audit.pdf) |
+| 70 | OpenEden | 13.01.2026 | Curated Private Audit | 🔒 NDA |
 | 71 | Reliq | 23.12.2025 | Audit Contest | [Audit Page](https://hackenproof.com/audit-programs) |
 | 72 | TraderBros | 15.12.2025 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
 | 73 | VeChain | 10.12.2025 | DualDefense Audit | [Audit Page](https://hackenproof.com/audit-programs) |
